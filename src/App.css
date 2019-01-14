@@ -1,0 +1,7 @@
+.App {
+  margin: 16px;
+}
+
+#inline,#inline2{
+  display: inline;
+}
